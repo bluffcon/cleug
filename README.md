@@ -1,7 +1,7 @@
-# Cleug — Mines, Tools, Villagers, & more!
+# Cleug — Mines, Tools, Villagers, & more! 🍂
 💫 **__Cleug__ is a simple, non-modular RPG & Mines Datapack** for Minecraft worlds. Potential use cases are: Prison servers, servers with auto-generating resource mines, map builders for said servers who need a simple and plug-n-play Datapack, and every every other potential use case!
-### Features:
-- Out-of-the-box RPG-ey mine experience: you only need to set up some basic areas for the mines.
+### 🌻 Features:
+- Out-of-the-box RPG-ey mine experience: you only need to set up some basic areas for the mines. 
 - Custom tools, magic system, enchantments, rarities, etc!
 - Easiest setup in the world! All you need is a location!
 - Tries to not be tedious! But this actually depends on if you like this kind of gameplay.
@@ -17,6 +17,7 @@ The set-up is painfully simple. All you need are a couple armor stands and a cha
 2. Set up the mines by renaming armor stands and placing them down in the world (only works if an `admin` entity is nearby!)
    - For example, to set up a Gravel mine, place down an armor stand named "Gravel Mine", "Sand Mine"
    - To set up two word mines, omit the space: "RedSand Mine", "BluePowder Mine"
+   - Setting up a mine will cause a large area below the armor stand to get filled with stone borders and mine blocks!
 3. To set up stores, try `/function summon` and choose the suggested villager you need.
 4. To easy get all consumables of the tool type, run `/function cleug:blab`
 
