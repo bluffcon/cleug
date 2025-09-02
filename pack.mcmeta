@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "description": {
+      "text": "meow meow meow meow",
+      "color": "gold",
+      "click_event": {
+        "action": "suggest_command",
+        "command": "meow meow meow"
+      },
+      "hover_event": {
+        "action": "show_text",
+        "value": "yoy meow meow meow"
+      }
+    },
+    "pack_format": 81
+  }
+}

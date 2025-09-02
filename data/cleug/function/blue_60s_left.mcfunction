@@ -1,0 +1,2 @@
+execute at @e[type=marker,tag=done, tag=blue, tag=cleugmarker] run tellraw @a[distance=..48] ["",{"text":"["},{"text":"Blue","bold":true,"color":"blue"},{"text":"] Blue Powder Mine resets in "},{"text":"60 seconds","underlined":true},{"text":"!"}]
+

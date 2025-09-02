@@ -1,0 +1,1 @@
+execute at @e[type=marker,tag=done, tag=sand, tag=cleugmarker] run tellraw @a[distance=..48] ["",{"text":"["},{"text":"Sand","bold":true,"color":"yellow"},{"text":"] Sand Mine resets in "},{"text":"10 seconds","underlined":true},{"text":"! Be cautious!"}]

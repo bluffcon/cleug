@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "cleug:make_markers",
+        "cleug:tick",
+        "cleug:enchantments_tick"
+    ]
+}
